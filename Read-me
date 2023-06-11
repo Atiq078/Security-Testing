@@ -1,0 +1,4 @@
+In this Repo, i will create a CI/CD pipeline with the following objective: 
+How to create docker without serving the docker file 
+Further how to maintain the docker security of the files
+Add push notification to alert you in case of any changes in git through Jenkins plugins 
