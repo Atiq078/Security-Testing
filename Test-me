@@ -1,0 +1,1 @@
+I have added new file to test that is Jenkins taking file from my private repository as i have added ssh-keygen private credentials in Jenkins. 
